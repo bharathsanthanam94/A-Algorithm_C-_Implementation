@@ -2,7 +2,7 @@
 
 A* algorithm is implemented in C++. 
 
-Input file has a grid of 1's and 0's. Zeros indicate free path and 1's indicate obstacles in the grid.
+Input file is a grid of 1's and 0's. Zeros indicate free path and 1's indicate obstacles in the grid.
 
 Origin grid: [0,0]
 Output grid: [4,5]
