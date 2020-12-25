@@ -1,4 +1,4 @@
-# A-Algorithm_C-_Implementation
+# A-Algorithm_C++_Implementation
 
 A* algorithm is implemented in C++. 
 
